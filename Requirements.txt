@@ -1,0 +1,86 @@
+# Banking Loan Approval Analysis - Requirements
+# Python 3.8 or higher required
+
+# Core Data Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Data Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+lightgbm>=3.3.5
+
+# Model Evaluation & Metrics
+imbalanced-learn>=0.10.0
+
+# Statistical Analysis
+scipy>=1.10.0
+statsmodels>=0.13.5
+
+# Model Persistence
+joblib>=1.2.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.20.0
+ipywidgets>=8.0.0
+
+# Data Preprocessing
+category-encoders>=2.5.0
+
+# Progress Bars
+tqdm>=4.64.0
+
+# Excel Support (for data import/export)
+openpyxl>=3.0.10
+xlrd>=2.0.1
+
+# PDF Report Generation
+reportlab>=3.6.12
+fpdf2>=2.7.0
+
+# Warnings Management
+warnings
+
+# Feature Engineering
+feature-engine>=1.5.0
+
+# Hyperparameter Tuning
+optuna>=3.1.0
+
+# Model Explainability
+shap>=0.41.0
+
+# Additional Utilities
+python-dateutil>=2.8.2
+pytz>=2022.7
+
+# Data Quality
+pandas-profiling>=3.6.0
+
+# Configuration Management
+pyyaml>=6.0
+
+# File Management
+pathlib
+
+# For Power BI Data Preparation
+pyodbc>=4.0.35  # If connecting directly to databases
+
+# Code Quality (Optional but Recommended)
+black>=22.12.0
+flake8>=6.0.0
+pylint>=2.15.0
+
+# Testing (Optional but Recommended)
+pytest>=7.2.0
+pytest-cov>=4.0.0
+
+# Environment Management
+python-dotenv>=0.21.0
