@@ -1,0 +1,1 @@
+loan_id,no_of_dependents,education,self_employed,income_annum,loan_amount,loan_term,cibil_score,residential_assets_value,commercial_assets_value,luxury_assets_value,bank_asset_value,loan_status,income_to_loan_ratio,total_assets,loan_status_encoded,AI_Prediction,Model_Accuracy,Error_Type

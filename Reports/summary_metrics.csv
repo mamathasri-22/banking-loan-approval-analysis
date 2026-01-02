@@ -1,0 +1,10 @@
+Metric,Value
+Total Applications,4269.0
+Approved Loans,2656.0
+Rejected Loans,1613.0
+Approval Rate (%),62.22
+Avg CIBIL (Approved),703.0
+Avg CIBIL (Rejected),429.0
+Avg Income (Approved),5025904.0
+Avg Loan Amount (Approved),15247252.0
+Avg Assets (Approved),32377297.0
